@@ -3,6 +3,7 @@
 
 int main () {
 
+    // Declaração das variáveis (Atributos das cartas )
     char c1_estado, c2_estado;
     char c1_codigo[3], c2_codigo[3];
     char c1_cidade[10], c2_cidade[10];
